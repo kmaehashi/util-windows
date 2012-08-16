@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+/* Mozilla Lightning */
+.calendar-color-box {
+    margin: 0px;
+    font-size: 10px;
+}
+
+.alarm-icons-box {
+    display: none;
+}
+
